@@ -1,10 +1,14 @@
-Olá! 👋 Eu sou a Sarah,
+# 👋 Olá! Eu sou a **Sarah**
 
-Sou uma estudante de Sistemas de Informação na PUC Minas.
+🎓 **Estudante de Sistemas de Informação** na **PUC Minas**, apaixonada por tecnologia e sempre em busca de novos desafios.  
 
-- 🔭 Atualmente estou procurando por um estágio na área de tecnologia.
-- 🌱 Atualmente estou aprendendo SQL, Python, Power BI, Excel, C#...
-- 👯 Estou procurando colaborar em projetos na Área de Dados.
+💻 **O que estou fazendo atualmente?**  
+- 🔭 Procurando uma oportunidade de **estágio na área de tecnologia**.  
+- 🌱 Aprendendo e aprimorando habilidades em:  
+  - **SQL**, **Python**, **Power BI**, **Excel**, **C#**... e muito mais!  
+- 👯 Buscando colaborar em **projetos na Área de Dados**.  
+
+📫 Vamos nos conectar? Confira meu [LinkedIn](https://www.linkedin.com/in/sarahcesarmartins/) para saber mais sobre mim! 😊  
 
 Minhas habilidades incluem:
 <br>
@@ -15,7 +19,8 @@ Minhas habilidades incluem:
  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
-          
+<br>
+<br>      
 <div>
 <a href="https://github.com/sarahcscode">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahcscode&layout=compact&langs_count=7&theme=dracula"/>
